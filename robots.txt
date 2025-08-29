@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://https://az-games.github.io/sitemap.xml
